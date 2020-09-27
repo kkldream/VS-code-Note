@@ -109,7 +109,7 @@ www.google.com
 
 文章內跳到標題 ex：[連結](##連結)
 
-    [連結](##連結)
+    [連結](#連結)
 
 跳到本倉庫其他位置
 
@@ -125,8 +125,6 @@ www.google.com
 ![img1_text](https://github.com/kkldream/kk-repository/blob/master/Markdown_images/img1.png?raw=true)
 
     ![說明文字](網址)
-
-參考連結：https://medium.com/@stephyang/%E5%9C%A8github%E7%9A%84readme-md%E5%8A%A0%E5%85%A5%E5%9C%96%E7%89%87%E5%8F%8Agif%E7%9A%84%E6%96%B9%E6%B3%95-7282a4a63141
 
 # 表格
 | 左對齊(預設)| 右對齊 | 居中對齊 |
