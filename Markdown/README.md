@@ -133,10 +133,10 @@ www.google.com
 
     [連結](#連結)
 
-跳到本倉庫其他位置 ex：[img1](./image/img1)
+跳到本倉庫其他位置 ex：[img1](./image/img1.png)
 
-    [相對路徑](./image/img1)
-    [絕對路徑](/Markdown/image/img1)
+    [相對路徑](./image/img1.png)
+    [絕對路徑](/Markdown/image/img1.png)
 
 點擊圖片跳轉
 
